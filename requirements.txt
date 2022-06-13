@@ -1,0 +1,5 @@
+ffpyplayer
+moviepy
+SpeechRecognition
+ffmpeg-python
+opencv-python
